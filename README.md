@@ -1,4 +1,4 @@
-# Optimal Discrete Signal Optimization using Integer Programming
+# Optimal Discrete Cosine Tranform approximation using Integer Programming
 ## Software implementation
 ## Hardware implementation
 ## References
