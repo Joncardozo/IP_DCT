@@ -1,4 +1,4 @@
-# Optimal Discrete Cosine Tranform approximation using Integer Programming
+# Optimal Discrete Cosine Transform approximation using Integer Programming
 ## Software implementation
 ## Hardware implementation
 ## References
